@@ -73,6 +73,8 @@ Before using a release based workflow for a larger release, let's create a tag a
 <summary><h2>Step 2: Add a new feature to the release branch</h2></summary>
 
 ### Release management
+    
+    NOTES FOR CHANGE
 
 As you prepare for a future release, you'll need to organize more than the tasks and features. It's important to create a clear workflow for your team, and to make sure that the work remains organized.
 
